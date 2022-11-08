@@ -8,27 +8,11 @@ image:
   caption: NASA
 ---
 
-I just want try to change something in my personal website, this is a test.
+I am a student from China. I will graduade from cqut in 2025. 
 
-```markmap {height="200px"}
-- Second Brain
-  - **powerful** knowledge base
-  - **easy**: just plain text Markdown files
-  - all your thoughts are **connected**
-  - highly **extensible**
-  - **future-proof** & open source ❤️
-```
+Next a few month, I will decorate my site first, and then put on my personal study which is about something wried of my life. Hope you like it.
 
-## Change Change ! extermination !
+Those articles are examples for testing, so if you want read more things like that, contact me, and my channel will be put on behind.  
 
-exterminationextermination
-
-exterminationextermination
-
-
-
-extermination
-
-exterminationextermination
-
-exterminationextermination
+## This is for my acount name in different Apps
+Youtube: 
