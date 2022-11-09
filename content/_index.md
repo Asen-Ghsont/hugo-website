@@ -5,14 +5,18 @@ toc: false
 
 image:
   filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
-  caption: NASA
+  caption: Asen_Ghsont
 ---
 
-I am a student from China. I will graduade from cqut in 2025. 
+I am a student from China. I will graduate in 2025. 
 
-Next a few month, I will decorate my site first, and then put on my personal study which is about something wried of my life. Hope you like it.
+In the next few months, I will decorate my site first, and then put on my personal study which is about something weird in my life. Hope you like it.
 
-Those articles are examples for testing, so if you want read more things like that, contact me, and my channel will be put on behind.  
+These articles are examples for testing purposes, so if you want to read more like this, please contact me and my channel will be posted later.  
 
-## This is for my acount name in different Apps
-Youtube: 
+## My Social Media
+**Youtube**: https://www.youtube.com/channel/UCp8werBuZts0twKIkkyakfw
+
+**Twitter**: Not frequently, so I do not want to share with public.
+
+**BiliBili**: https://space.bilibili.co.m/115333008
