@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: 个人博客
-linktitle: 个人博客
+title: Blogs
+linktitle: Blogs
 summary: Blogs
 weight: 2
 icon: Blog

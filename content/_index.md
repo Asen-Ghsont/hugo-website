@@ -1,6 +1,6 @@
 ---
-title: Who am I?
-date: 2022-11-08
+title: Asen's Personal Site
+date: 2023-01-07
 toc: false
 
 image:
@@ -8,15 +8,45 @@ image:
   caption: Asen_Ghsont
 ---
 
-I am a student from China. I will graduate in 2025. 
+## Introductions
 
-In the next few months, I will decorate my site first, and then put on my personal study which is about something weird in my life. Hope you like it.
+- **Who am I?**
 
-These articles are examples for testing purposes, so if you want to read more like this, please contact me and my channel will be posted later.  
+​	Asen is my nickname, and Ghson(s)t is my English name. My true name is Yangsen, and I'm a student from China and studying Software Engineering in the CQUT.
 
-## My Social Media
-**Youtube**: https://www.youtube.com/channel/UCp8werBuZts0twKIkkyakfw
+- **What I want to do?**
 
-**Twitter**: Not frequently, so I do not want to share with public.
+​	I will share some markdown files in the site. Some are Blogs, some are Study Notes or Personal thoughts.
 
-**BiliBili**: https://space.bilibili.co.m/115333008
+- **Postscript**
+
+​	Because my English is poor and I have decisided to write files by Chinese. When I have free time, I will try to translate this big deals. 
+
+## Habits
+
+- **Playing Games**
+
+​	When I got bored and stressed, I will playing games to release my bad feelingw. FPS makes me excited; Strategy makes me calm down and have fun.
+
+- **Coding**
+
+​	Coding give me lots of  satisfaction. On the other hand, it alway give me a feeling of soft and clear. I enjoy coding, seems like swimming in a bioluminescent bay and listenning wonderful songs.
+
+- **Running**
+
+​	Running is my a short-lived exit I can out of life. While I'm running, time flews slowly, I can unrestrainedly think about my past, now and future. In a word, running has been my lifelong ambition.
+
+- **Cooking**
+
+​	Everyone like cooking, but no one like washing dishes. Also me.
+
+## Wishes
+
+- **Own house**
+- **True friend**
+- **Sex partner**
+- **Suitable environment**
+
+## Contacts
+
+- **E-mail: ghsonst@gmail.com** 
