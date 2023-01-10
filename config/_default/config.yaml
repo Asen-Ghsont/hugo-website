@@ -15,7 +15,7 @@ cascade:
   - _target:
       path: /**
     type: book
-    editable: false
+    editable: true
     show_breadcrumb: true
 
 ############################
